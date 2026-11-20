@@ -1,0 +1,9 @@
+gradio>=5,<7
+chromadb==1.5.9
+sentence-transformers
+google-genai
+python-dotenv
+numpy
+pandas
+pymupdf
+python-docx

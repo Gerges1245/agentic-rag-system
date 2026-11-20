@@ -1,0 +1,23 @@
+Bookstore Database Project
+
+The project is to design a database for a small online bookstore.
+
+Each team must contain three students.
+
+The database must include four tables:
+Customers, Books, Orders, and OrderItems.
+
+Each table must have a primary key.
+Foreign keys must connect related tables.
+The database design must satisfy Third Normal Form.
+
+The system must support adding customers, recording orders,
+and retrieving the books included in each order.
+
+The required deliverables are an ER diagram, an SQL script,
+and a short project report.
+
+The grading distribution is:
+Database design: 40 points.
+SQL implementation: 35 points.
+Project report: 25 points.
